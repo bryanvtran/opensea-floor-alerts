@@ -1,17 +1,3 @@
-// const OpenseaScraper = require("opensea-scraper");
-
-// // which nft project to scrape?
-// const slug = "cool-cats-nft";
-
-// // options
-// const options = {
-//   debug: false,
-//   logs: true,
-//   sort: true,
-//   browserInstance: undefined,
-// }
-
-
 const axios = require("axios");
 const open = require('open');
 
