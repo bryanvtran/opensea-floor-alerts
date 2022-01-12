@@ -1,0 +1,25 @@
+{
+  "name": "opensea-floor-alerts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanvtran/opensea-floor-alerts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanvtran/opensea-floor-alerts/issues"
+  },
+  "homepage": "https://github.com/bryanvtran/opensea-floor-alerts#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "open": "^8.4.0",
+    "opensea-scraper": "^5.0.2"
+  }
+}
